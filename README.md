@@ -26,5 +26,3 @@
     - [x] 적 캐릭터의 HP 구현해 0이하이면 삭제 처리함
     - ~~오브젝트 풀링은 제외~~
     - [x] <b>적 캐릭터 구현!</b>
-
-<iframe width="640" height="360" src="https://youtu.be/Jy9j4vkHoSA" frameborder="0" gesture="media" allowfullscreen=""></iframe>
