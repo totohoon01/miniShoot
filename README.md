@@ -27,4 +27,4 @@
     - ~~오브젝트 풀링은 제외~~
     - [x] <b>적 캐릭터 구현!</b>
 
-[![Video.mp4](https://youtu.be/Jy9j4vkHoSA/0.jpg)](https://youtu.be/Jy9j4vkHoSA)
+<iframe width="640" height="360" src="https://youtu.be/Jy9j4vkHoSA" frameborder="0" gesture="media" allowfullscreen=""></iframe>
